@@ -65,6 +65,7 @@ body {
 .seat:not(.occupied):hover {
   cursor: pointer;
   transform: scale(1.2);
+  background-color: #6feaf6;
 }
 .showcase .seat:not(.occupied):hover {
   cursor: default;
